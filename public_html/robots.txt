@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://livewell.com.tr/sitemap.xml
+Sitemap: https://livewell.com.tr/en/sitemap.xml
